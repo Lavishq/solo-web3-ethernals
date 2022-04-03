@@ -1,5 +1,5 @@
-#todolist on local-blockchain
-used ganash local server and followed devfolio tutorial
+# Daily Tasker on local-blockchain
+https://github.com/Lavishq/solo-web3-ethernals/Daily_Tasker
 
-#lifDex
-uniswap dex using moralis api on ethereum mainnet
+# lifDex
+https://github.com/Lavishq/solo-web3-ethernals/lifDex
